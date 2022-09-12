@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @callutku
-- 👀 I’m an immigration attorney licensed to practice in New York. 
-- <3 I just passed the California bar exam and am awaiting for admission.
-- 🌱 I’m interested in learning different projects. 
-- 📫 You can reach out to me at info@callutku.co
+- 👋 Hi, I’m Utku Galip Akcok
+- 👀 I’m an immigration attorney licensed to practice in California & New York. 
+- 🌱 I’m an entrepreneur and currently creating something good.  
+- 📫 You can reach out to me at info@callutku.com
